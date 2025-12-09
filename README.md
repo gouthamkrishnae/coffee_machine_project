@@ -61,9 +61,6 @@ Penny → 0.01
 
 🚀 How to Run
 
-Clone the repo:
-
-git clone https://github.com/your-username/coffee-machine.git
 
 
 Navigate to project folder:
