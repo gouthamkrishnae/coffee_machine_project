@@ -90,3 +90,7 @@ How many pennies?: 0
 
 Here is your change: 0.25
 Here is your latte ☕
+
+
+
+Project completed — ready to improve later
